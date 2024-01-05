@@ -9,7 +9,6 @@ Given an integer num, return a string of its base 7 representation.
 **<h3>Constraints</h3>**
 
 1. -10<sup>7</sup> <= num <= 10<sup>7</sup> 
-1. 0> <= prices[i] <= 10<sup>4</sup>
 
 **<h3>Approach</h3>**
 
